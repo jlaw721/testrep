@@ -1,2 +1,2 @@
 # testrep
-Coursera exercise
+Coursera exercise for getting started with github
